@@ -1,0 +1,5 @@
+mail.list -- file with one email per line
+
+Usage:
+cat mail.list | ./gomail.py ./body.txt ./body.html 'no-reply@example.com' 'Good news everyone!'
+
